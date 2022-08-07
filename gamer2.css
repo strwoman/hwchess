@@ -1,0 +1,31 @@
+body {
+    margin-left: 25px;
+    margin-right: 70px;
+}
+.botvinnik {
+    margin-left: 20px;
+    text-align: left;
+    font-size: 12px;
+}
+name {
+    margin-bottom: 0;
+}
+.data {
+    color: rgb(22, 192, 22);
+}
+.champion {
+    color: rgb(230, 20, 20);
+}
+.information {
+    color: blue;
+    font-style: oblique;
+    text-align: justify;
+}
+.infobotvin::before {
+    content: url("../images/extref.png");
+    float: left;
+}
+.infokarpov::before {
+    content: url("../images/extref.png");
+    float: left;
+}

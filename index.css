@@ -1,0 +1,103 @@
+div {
+    margin-top: -2px;
+}
+.cell {
+    width: 50px;
+    height: 50px;
+    border: 1px solid;
+    display: inline-block;
+    margin: -2px;
+}
+.black {
+    background: rgba(0, 0, 0, 0.719);
+}
+.bordertop {
+    background-color: rgb(65, 240, 65);
+    height: 10px;
+}
+.borderbot {
+    background-color: rgb(65, 240, 65);
+    height: 10px;
+
+
+}
+div :first-child {
+    width: 10px;
+    background-color: rgb(65, 240, 65);
+}
+
+div :last-child {
+    width: 10px;
+    background-color: rgb(65, 240, 65);
+}
+
+.Ladya {
+    background-image: url(./images/Ladyablack.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.hors {
+    background-image: url(./images/horsblack.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.pherz {
+    background-image: url(./images/pherzblack.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.king1 {
+    background-image: url(./images/king1black.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.peska {
+    background-image: url(./images/peshkablack.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.imgpeska {
+    opacity: 0.8;
+}
+
+.peskawite {
+    background-image: url(./images/peshkawite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.Ladyawite {
+    background-image: url(./images/ladyawite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.horswite {
+    background-image: url(./images/horswite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.witepherz {
+    background-image: url(./images/pherzwite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.witeking1 {
+    background-image: url(./images/king1wite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.witeking2 {
+    background-image: url(./images/king2wite.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
