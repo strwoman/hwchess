@@ -22,10 +22,10 @@ name {
     text-align: justify;
 }
 .infobotvin::before {
-    content: url("../images/extref.png");
+    content: url("./images/extref.png");
     float: left;
 }
 .infokarpov::before {
-    content: url("../images/extref.png");
+    content: url("./images/extref.png");
     float: left;
 }
